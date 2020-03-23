@@ -1,2 +1,2 @@
-all: da.cpp
-    g++ -Wall -o da da.cpp
+all:
+	g++ -Wall -o da da.cpp
